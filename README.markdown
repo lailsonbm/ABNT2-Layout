@@ -5,9 +5,9 @@ Layout de teclado padrão ABNT2 Brasileiro para Mac OS X, útil para quem usa te
 
 ##Instruções
 
-1. Copie o arquivo _Brazil ABNT2.keymap_ para a pasta _~/Library/Keyboard Layouts_ (para que o layout fique disponível apenas para o seu usuário) ou _/Library/Keyboard Layouts/_ (para que o layout fique disponível para todos os usuários).
+1. Copie o arquivo _Brazil ABNT2.keylayout_ para a pasta _~/Library/Keyboard Layouts_ (para que o layout fique disponível apenas para o seu usuário) ou _/Library/Keyboard Layouts/_ (para que o layout fique disponível para todos os usuários).
 
-2. Nas _Preferências de Sistema_ (_System Preferences_), vá em _Língua & Texto_ (_Language & Text_). No item _Fontes de Entrada_ (Input Sources), selecione _Brazil ABNT2_.
+2. Nas _Preferências de Sistema_ (_System Preferences_), vá em _Língua & Texto_ (_Language & Text_). No item _Fontes de Entrada_ (_Input Sources_), selecione _Brazil ABNT2_.
 
 3. Faça Logout e entre novamente no sistema.
 
