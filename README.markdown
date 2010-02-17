@@ -56,4 +56,4 @@ Testado no Mac OS X 10.6 (Snow Leopard), mas deve funcionar também em versões 
 ##Licença
 [Creative Commons Attribution + Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/br/). Criado por Lailson Bandeira.
 
-Você pode modificar e distribuir o código, desde que não faça uso comercial e cite os criadores.
+Você pode usar, modificar e redistribuir o código, desde que cite os criadores e não faça uso comercial.
