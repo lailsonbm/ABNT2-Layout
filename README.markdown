@@ -50,4 +50,4 @@ Teclas mapeadas de acordo com o layout mostrado na [Wikipedia](http://en.wikiped
 
 #Compatibilidade
 
-Testado no Mac OS X 10.6 (Snow Leopard), mas deve funcionar também em versões anteriores. Feito com Ukelele.
+Testado no Mac OS X 10.6 (Snow Leopard), mas deve funcionar também em versões anteriores. Feito com [Ukelele](http://scripts.sil.org/ukelele).
