@@ -48,6 +48,12 @@ Teclas mapeadas de acordo com o layout mostrado na [Wikipedia](http://en.wikiped
 </pre>
 
 
-#Compatibilidade
+##Compatibilidade
 
 Testado no Mac OS X 10.6 (Snow Leopard), mas deve funcionar também em versões anteriores. Feito com [Ukelele](http://scripts.sil.org/ukelele).
+
+
+##Licença
+[Creative Commons Attribution + Share Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/br/). Criado por Lailson Bandeira.
+
+Você pode modificar e distribuir o código, desde que não faça uso comercial e cite os criadores.
